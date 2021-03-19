@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-context-demo/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-context-demo/static/js/main.33d773d2.chunk.js",
+    "main.js.map": "/react-context-demo/static/js/main.33d773d2.chunk.js.map",
+    "runtime-main.js": "/react-context-demo/static/js/runtime-main.2f7a9c17.js",
+    "runtime-main.js.map": "/react-context-demo/static/js/runtime-main.2f7a9c17.js.map",
+    "static/js/2.b7901df5.chunk.js": "/react-context-demo/static/js/2.b7901df5.chunk.js",
+    "static/js/2.b7901df5.chunk.js.map": "/react-context-demo/static/js/2.b7901df5.chunk.js.map",
+    "static/js/3.d3d92fb7.chunk.js": "/react-context-demo/static/js/3.d3d92fb7.chunk.js",
+    "static/js/3.d3d92fb7.chunk.js.map": "/react-context-demo/static/js/3.d3d92fb7.chunk.js.map",
+    "index.html": "/react-context-demo/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-context-demo/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b7901df5.chunk.js.LICENSE.txt": "/react-context-demo/static/js/2.b7901df5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f7a9c17.js",
+    "static/js/2.b7901df5.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.33d773d2.chunk.js"
+  ]
+}
