@@ -2,6 +2,9 @@
 
 The todo app as explained using react context api and it follows redux pattern.
 
+## Live Demo
+<a href="https://bodaryatushar.github.io/react-context-demo/"> https://bodaryatushar.github.io/react-context-demo/ </a>
+
 ## Prerequisite
 <ul>
   <li>node >= 10.13.0</li>
